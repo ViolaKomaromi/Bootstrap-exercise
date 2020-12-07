@@ -1,0 +1,36 @@
+body{
+    height: 100vh;
+    background: url("./img/10.jpg");
+    
+}
+.navbar .nav .nav-item a{
+    color: rgb(182, 174, 174);
+    font-weight: bold;
+    
+}
+.navbar .nav .nav-item a:hover{
+    color: rgb(230, 211, 211);
+
+}
+/* .navbar{
+    z-index: 5;
+} */
+.container-md img{
+    margin: 5px;
+    
+}
+.container-md img:hover{
+    box-shadow: 3px 3px 10px  white;
+}
+.container-md h1{
+    margin-top: 20px;
+}
+
+.footer-fluid p{
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+.footer-fluid{
+    bottom: 0;
+}
